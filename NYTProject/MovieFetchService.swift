@@ -9,7 +9,7 @@
 import Foundation
 import Alamofire
 
-let NYTimesAPIKey = ""
+let NYTimesAPIKey = "" // ADD KEY HERE
 
 class MovieFetchService {
 
